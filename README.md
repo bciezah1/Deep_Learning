@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains two main scripts for machine learning tasks: one for regression and another for classification. These scripts allow users to train, evaluate, and make predictions using various models and datasets.
+This repository contains two main scripts for regression and classification tasks using deep learning: These scripts allow users to train, evaluate, and make predictions using various models and datasets.
 
 ## Contents
 
